@@ -1,0 +1,11 @@
+.transcluentBackground {
+  background-color: rgba(247, 242, 235, 0.6);
+}
+.recipeBackground {
+  background-image: url("assets\images\bgimg.PNG");
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}

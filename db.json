@@ -1,0 +1,40 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Spaghetti Carbonara",
+      "category": "non veg",
+      "description": "Classic Italian pasta with eggs, cheese, and pancetta.",
+      "ingredients": "Spaghetti, eggs, Parmesan cheese, pancetta, black pepper",
+      "imgUrl": "https://tse1.mm.bing.net/th/id/OIP.cNnSya9l6npQSoNZrfK3TQHaH2?r=0&pid=ImgDet&w=474&h=502&rs=1&o=7&rm=3",
+      "preparation": "Boil spaghetti until al dente. Cook pancetta until crispy. Whisk eggs with cheese and pepper. Combine hot pasta with pancetta, then stir in egg mixture off heat. Add pasta water to adjust creaminess and serve immediately."
+    },
+    {
+      "id": "2",
+      "name": "Chicken Tikka Masala",
+      "category": "Non Veg",
+      "description": "Tender grilled chicken in a creamy spiced tomato sauce.",
+      "ingredients": "Chicken, yogurt, tomato puree, cream, garam masala, garlic, ginger",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzoMMJMFmWsH-_qSIg8hmZFt2eW7BPMkKyKQ&s",
+      "preparation": "Marinate chicken in yogurt, garlic, ginger, and spices. Grill or bake until cooked. Sauté onions, garlic, and ginger in butter, add spices and tomato puree. Simmer, then stir in cream. Add chicken and cook until sauce thickens."
+    },
+    {
+      "id": "5",
+      "name": "Paneer Butter Masala",
+      "category": "Veg",
+      "description": "Rich and creamy North Indian curry made with paneer cubes simmered in a buttery tomato gravy",
+      "preparation": "Sauté onions, ginger, and garlic in butter. Add chopped tomatoes and cook until soft. Blend with soaked cashews into a smooth paste. Return to pan, add spices and simmer. Stir in cream and paneer cubes, cook until paneer is tender. Garnish with coriander and serve hot with naan or rice.",
+      "ingredients": "Paneer, butter, tomatoes, cream, cashews, ginger, garlic, garam masala",
+      "imgUrl": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/01/paneer-butter-masala-1.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Vegetarian Lasagna",
+      "category": "Veg",
+      "description": "Layered pasta with roasted vegetables and creamy cheese.",
+      "ingredients": "Lasagna noodles, ricotta, spinach, mushrooms, marinara sauce, mozzarella",
+      "imgUrl": "https://jessicainthekitchen.com/wp-content/uploads/2021/06/Vegan-Lasagna-17-scaled.jpg",
+      "preparation": "Sauté vegetables and mix ricotta with spinach. Layer sauce, noodles, ricotta mix, and veggies in a baking dish. Top with mozzarella and bake until bubbly and golden. Let rest before serving."
+    }
+  ]
+}
